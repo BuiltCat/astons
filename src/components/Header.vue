@@ -30,7 +30,7 @@
         <div class="second-header">
             <div class="logo"><img :src="logo" /></div>
             <ul class="nav">
-                <li class="item">永久移民项目
+                <li class="item">永居移民项目
                     <div class="header-info">
                         <div class="header-info-inline">
                             <img :src="passport" />
@@ -224,7 +224,8 @@ export default {
     max-width: 1280px;
     margin-left: auto;
     margin-right: auto;
-    padding: 0 5.5rem;
+    padding-left: 5.5rem;
+    padding-right: 5.5rem;
 }
 .header .first-header ul{
     display:  inline-flex;
@@ -233,8 +234,12 @@ export default {
     margin-right: 40px;
     height: 40px;
 }
+.header .first-header ul:nth-child(5){
+    margin-right: 0;
+}
 .header .first-header ul:last-child{
     margin-right: 0;
+    margin-left: 30px;
 }
 .header .first-header ul li{
     cursor: pointer;
@@ -263,6 +268,7 @@ export default {
 }
 .header .first-header ul li .search{
     width: 12px;
+    margin: 0;
 }
 .header .first-header ul .country img{
     width: 12px;
@@ -270,6 +276,9 @@ export default {
 }
 .header .first-header ul .country{
     margin-right: 20px;
+}
+.header .first-header ul .country.current{
+    margin-right: 0;
 }
 .header .first-header ul .country:last-child{
     margin-right: 0;
