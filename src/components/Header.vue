@@ -36,7 +36,7 @@
                             <img :src="passport" />
                             <p>投资移民改政策改变:Tier1 创业签证项目最新攻略</p>
                             <ul>
-                                <li>欧盟拘留身份</li>
+                                <li><router-link to="/EUResidence">欧盟拘留身份</router-link></li>
                                 <li>英国</li>
                                 <li>爱尔兰</li>
                                 <li>葡萄牙</li>
