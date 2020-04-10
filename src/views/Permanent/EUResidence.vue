@@ -1,12 +1,7 @@
 <template>
     <main class="page-content">
         <div class="page-container">
-            <div class="page-container-content">
-                <ul class="page-header">
-                    <li><a href="">Astons</a></li>
-                    <li><a href="">Residency by investment</a></li>
-                </ul>
-            </div>
+            <Breadctumbs current="Residency by investment"></Breadctumbs>
         </div>
         <div class="page-container">
             <div class="page-container-content content-padding">
@@ -85,8 +80,11 @@
     </main>
 </template>
 <script>
+    import Breadctumbs from "../../components/Breadcrumbs"
     export default{
-
+        components:{
+            'Breadctumbs': Breadctumbs
+        }
     }
 </script>
 <style lang="css">
