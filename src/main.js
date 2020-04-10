@@ -7,10 +7,11 @@ Vue.use(BaiduMap, {
     ak: '9whTPxXrl8zvW3gjiAaoPa59gFekKK9I'
 })
 
-import { Carousel, CarouselItem } from "element-ui"
+import { Carousel, CarouselItem, Input } from "element-ui"
 
 Vue.use(Carousel);
 Vue.use(CarouselItem);
+Vue.use(Input);
 Vue.config.productionTip = false
 
 new Vue({

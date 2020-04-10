@@ -4,6 +4,7 @@ import Home from '../views/Home.vue'
 import Index from '../views/index.vue'
 import EUResidence from '../views/Permanent/EUResidence'
 import UKResidence from '../views/Permanent/UKResidence'
+import ImmigrationUk from '../views/ImmigrationUk.vue'
 
 
 Vue.use(VueRouter)
@@ -31,6 +32,10 @@ Vue.use(VueRouter)
     path: '/UKResidence',
     name: 'UKResidence',
     component: UKResidence
+  },{
+    path: '/ImmigrationUk',
+    name: 'ImmigrationUk',
+    component: ImmigrationUk
   }
 ]
 

@@ -28,7 +28,7 @@
             </div>
         </div>
         <div class="second-header">
-            <div class="logo"><img :src="logo" /></div>
+            <div class="logo"><router-link to="/"><img :src="logo" /></router-link></div>
             <ul class="nav">
                 <li class="item">永居移民项目
                     <div class="header-info">
@@ -81,7 +81,7 @@
                         </div>
                     </div>
                 </li>
-                <li class="item">英国移民
+                <li class="item"><router-link to="/ImmigrationUk">英国移民</router-link>
                     <div class="header-info">
                         <div class="header-info-inline">
                             <ul>
@@ -391,5 +391,11 @@ export default {
 }
 .header .second-header .header-info .estate li:first-child{
     font-weight: inherit;
+}
+.header a { 
+  text-decoration:none
+}
+.header a:visited{
+  color: #000;
 }
 </style>
