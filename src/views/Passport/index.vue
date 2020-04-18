@@ -32,10 +32,10 @@
                     <h2>欧洲公民身份</h2>
                     <ul class="Passport-country-list">
                         <li class="Passport-country-item">
-                            <a class="Passport-country-item-img" href="">
+                            <a class="Passport-country-item-img" href="#">
                                 <img src="../../assets/img/Passport/uk.jpg" alt="">
                             </a>
-                            <a class="Passport-country-item-title" href="">英国</a>
+                            <a class="Passport-country-item-title" href="#">英国</a>
                             <ul>
                                 <li>4 个月登陆- 2年拿绿卡</li>
                                 <li>
@@ -47,10 +47,10 @@
                             </ul>
                         </li>
                         <li class="Passport-country-item">
-                            <a class="Passport-country-item-img" href="">
+                            <a class="Passport-country-item-img" href="#">
                                 <img src="../../assets/img/Passport/cyprus.jpg" alt="">
                             </a>
-                            <a class="Passport-country-item-title" href="">塞浦路斯</a>
+                            <a class="Passport-country-item-title" href="#">塞浦路斯</a>
                             <ul>
                                 <li>180天拿护照</li>
                                 <li>
@@ -62,10 +62,10 @@
                             </ul>
                         </li>
                         <li class="Passport-country-item">
-                            <a class="Passport-country-item-img" href="">
+                            <a class="Passport-country-item-img" href="#">
                                 <img src="../../assets/img/Passport/Malta.jpg" alt="">
                             </a>
-                            <a class="Passport-country-item-title" href="">马耳他</a>
+                            <a class="Passport-country-item-title" href="#">马耳他</a>
                             <ul>
                                 <li>14 个月拿护照</li>
                                 <li>
@@ -77,10 +77,10 @@
                             </ul>
                         </li>
                         <li class="Passport-country-item">
-                            <a class="Passport-country-item-img" href="">
+                            <a class="Passport-country-item-img" href="#">
                                 <img src="../../assets/img/Passport/bjly.jpg" alt="">
                             </a>
-                            <a class="Passport-country-item-title" href="">保加利亚</a>
+                            <a class="Passport-country-item-title" href="#">保加利亚</a>
                             <ul>
                                 <li>2年内取得公民身份</li>
                                 <li>
@@ -92,10 +92,10 @@
                             </ul>
                         </li>
                         <li class="Passport-country-item">
-                            <a class="Passport-country-item-img" href="">
+                            <a class="Passport-country-item-img" href="#">
                                 <img src="../../assets/img/Passport/hsghg.jpg" alt="">
                             </a>
-                            <a class="Passport-country-item-title" href="">黑山共和国</a>
+                            <a class="Passport-country-item-title" href="#">黑山共和国</a>
                             <ul>
                                 <li>3个月内取得公民身份</li>
                                 <li>
@@ -107,10 +107,10 @@
                             </ul>
                         </li>
                         <li class="Passport-country-item">
-                            <a class="Passport-country-item-img" href="">
+                            <a class="Passport-country-item-img" href="#">
                                 <img src="../../assets/img/Passport/teq.jpg" alt="">
                             </a>
-                            <a class="Passport-country-item-title" href="">土耳其</a>
+                            <a class="Passport-country-item-title" href="#">土耳其</a>
                             <ul>
                                 <li>2个月拿护照</li>
                                 <li>
@@ -127,10 +127,10 @@
                     <h2>加勒比和瓦努阿图公民身份</h2>
                     <ul class="Passport-country-list">
                         <li class="Passport-country-item">
-                            <a class="Passport-country-item-img" href="">
+                            <a class="Passport-country-item-img" href="#">
                                 <img src="../../assets/img/Passport/Dominica.jpg" alt="">
                             </a>
-                            <a class="Passport-country-item-title" href="">多米尼克</a>
+                            <a class="Passport-country-item-title" href="#">多米尼克</a>
                             <ul>
                                 <li>2-3个月拿护照</li>
                                 <li>
@@ -142,10 +142,10 @@
                             </ul>
                         </li>
                         <li class="Passport-country-item">
-                            <a class="Passport-country-item-img" href="">
+                            <a class="Passport-country-item-img" href="#">
                                 <img src="../../assets/img/Passport/lgnd.jpg" alt="">
                             </a>
-                            <a class="Passport-country-item-title" href="">林格纳达投资公民</a>
+                            <a class="Passport-country-item-title" href="#">林格纳达投资公民</a>
                             <ul>
                                 <li>3-4个月拿护照</li>
                                 <li>
@@ -157,10 +157,10 @@
                             </ul>
                         </li>
                         <li class="Passport-country-item">
-                            <a class="Passport-country-item-img" href="">
+                            <a class="Passport-country-item-img" href="#">
                                 <img src="../../assets/img/Passport/slxy.jpg" alt="">
                             </a>
-                            <a class="Passport-country-item-title" href="">圣卢西亚</a>
+                            <a class="Passport-country-item-title" href="#">圣卢西亚</a>
                             <ul>
                                 <li>3-4个月拿护照</li>
                                 <li>
@@ -172,10 +172,10 @@
                             </ul>
                         </li>
                         <li class="Passport-country-item">
-                            <a class="Passport-country-item-img" href="">
+                            <a class="Passport-country-item-img" href="#">
                                 <img src="../../assets/img/Passport/atg.jpg" alt="">
                             </a>
-                            <a class="Passport-country-item-title" href="">安提瓜和巴布达</a>
+                            <a class="Passport-country-item-title" href="#">安提瓜和巴布达</a>
                             <ul>
                                 <li>3（4）个月拿护照</li>
                                 <li>
@@ -187,10 +187,10 @@
                             </ul>
                         </li>
                         <li class="Passport-country-item">
-                            <a class="Passport-country-item-img" href="">
+                            <a class="Passport-country-item-img" href="#">
                                 <img src="../../assets/img/Passport/sklxsdf.jpg" alt="">
                             </a>
-                            <a class="Passport-country-item-title" href="">圣克里斯多福和尼维斯</a>
+                            <a class="Passport-country-item-title" href="#">圣克里斯多福和尼维斯</a>
                             <ul>
                                 <li>46-60天拿护照</li>
                                 <li>
@@ -202,10 +202,10 @@
                             </ul>
                         </li>
                         <li class="Passport-country-item">
-                            <a class="Passport-country-item-img" href="">
-                                <img src="../../assets/img/Passport/Vanuatu.jpg" alt="">
+                            <a class="Passport-country-item-img" href="#">
+                                <img src="../../assets/img/Passport/Vanuatu.jpg" alt="#">
                             </a>
-                            <a class="Passport-country-item-title" href="">瓦努阿图</a>
+                            <a class="Passport-country-item-title" href="#">瓦努阿图</a>
                             <ul>
                                 <li>1个月拿护照</li>
                                 <li>
@@ -230,7 +230,7 @@
                         <p>&nbsp;</p>
                         <p>Astons为客户获得居住权和公民身份提供一站式服务。整个过程由行业专家精心管理。这一过程始于一次彻底的磋商，讨论潜在的投资路线，并寻找我们最好的房地产项目。它会一直持续到你准备并提交完整的最终申请。Astons一直在你身边工作，直到你成为全球公民的那一刻。</p>
                     </div>
-                    <a class="title-btn" href="">请联系我</a>
+                    <a class="title-btn" href="#">请联系我</a>
                 </div>
             </div>
         </div>

@@ -13,7 +13,7 @@
                             无论您渴望在欧州安顿，扩张事业或者免签证到申根国家旅游。Astons 将根据您所选择的国家提供专业的解决方案，让您在3-6个月内顺利替全家人取得欧洲的居留权。我们拥有良好的纪录，保证提供可信的建议，满足客户从初始谘询，申请居留许可甚至到取得公民身份的期待。马上联络我们开始您的快速取得欧洲居留权的道路。
                         </div>
                     </div>
-                    <a class="title-btn" href="">请联系我</a>
+                    <a class="title-btn" href="#">请联系我</a>
                 </div>
             </div>
         </div>
@@ -23,10 +23,10 @@
                     <h2>欧盟居留权</h2>
                     <ul class="country-list">
                         <li class="country-item">
-                            <a href="">
+                            <a href="#">
                                 <img src="../../assets/img/EUResidence/pty.jpg" alt="">
                             </a>
-                            <a href="">葡萄牙</a>
+                            <a href="#">葡萄牙</a>
                             <ul>
                                 <li>90 天内取得欧盟居留权</li>
                                 <li>–</li>
@@ -34,10 +34,10 @@
                             </ul>
                         </li>
                         <li class="country-item">
-                            <a href="">
+                            <a href="#">
                                 <img src="../../assets/img/EUResidence/xl.jpg" alt="">
                             </a>
-                            <a href="">希腊</a>
+                            <a href="#">希腊</a>
                             <ul>
                                 <li>60 天内取得欧盟居留权</li>
                                 <li>-</li>
@@ -45,10 +45,10 @@
                             </ul>
                         </li>
                         <li class="country-item">
-                            <a href="">
+                            <a href="#">
                                 <img src="../../assets/img/EUResidence/met.jpg" alt="">
                             </a>
-                            <a href="">马尔他</a>
+                            <a href="#">马尔他</a>
                             <ul>
                                 <li> 天内取得欧盟居留权</li>
                                 <li>-</li>
@@ -56,10 +56,10 @@
                             </ul>
                         </li>
                         <li class="country-item">
-                            <a href="">
+                            <a href="#">
                                 <img src="../../assets/img/EUResidence/ael.jpg" alt="">
                             </a>
-                            <a href="">爱尔兰</a>
+                            <a href="#">爱尔兰</a>
                             <ul>
                                 <li> 天内取得欧盟居留权</li>
                                 <li>-</li>
@@ -73,7 +73,7 @@
         <div class="page-container">
             <div class="page-container-content landing-section__wrap">
                 <div class="EU-footer">
-                    <a class="title-btn" href="">请联系我</a>
+                    <a class="title-btn" href="#">请联系我</a>
                 </div>
             </div>
         </div>
@@ -89,7 +89,7 @@
 </script>
 <style lang="css">
     .page-content{
-        margin-top: 10rem;
+        margin-top: 120px;
     }
     .page-content ul{
         list-style: none;

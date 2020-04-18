@@ -28,15 +28,15 @@
             </div>
         </div>
         <div class="second-header">
-            <div class="logo"><router-link to="/"><img :src="logo" /></router-link></div>
+            <div class="logo"><router-link to="/astons"><img :src="logo" /></router-link></div>
             <ul class="nav">
-                <li class="item">永居移民项目
+                <li class="item"><router-link to="/astons/EUResidence">永居移民项目</router-link>
                     <div class="header-info">
                         <div class="header-info-inline">
                             <img :src="passport" />
                             <p>投资移民改政策改变:Tier1 创业签证项目最新攻略</p>
                             <ul>
-                                <li><router-link to="/EUResidence">欧盟拘留身份</router-link></li>
+                                <li>欧盟居留身份</li>
                                 <li>英国</li>
                                 <li>爱尔兰</li>
                                 <li>葡萄牙</li>
@@ -53,7 +53,8 @@
                         </div>
                     </div>
                 </li>
-                <li class="item">护照投资移民项目
+                <li class="item">
+                    <router-link to="/astons/Passport">护照投资移民项目</router-link>
                     <div class="header-info">
                         <div class="header-info-inline">
                             <img :src="passport" />
@@ -81,7 +82,7 @@
                         </div>
                     </div>
                 </li>
-                <li class="item"><router-link to="/ImmigrationUk">英国移民</router-link>
+                <li class="item"><router-link to="/astons/ImmigrationUk">英国移民</router-link>
                     <div class="header-info">
                         <div class="header-info-inline">
                             <ul>

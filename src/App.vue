@@ -48,5 +48,8 @@ body{
   content: '';
   clear: both;
 }
-
+a{
+  color: #000;
+  text-decoration: none;
+}
 </style>

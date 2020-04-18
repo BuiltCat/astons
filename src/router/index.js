@@ -12,12 +12,12 @@ Vue.use(VueRouter)
 
   const routes = [
   {
-    path: '/',
+    path: '/astons',
     name: 'Index',
     component: Index
   },
   {
-    path: '/about',
+    path: '/astons/about',
     name: 'About',
     // route level code-splitting
     // this generates a separate chunk (about.[hash].js) for this route
@@ -25,28 +25,30 @@ Vue.use(VueRouter)
     component: () => import(/* webpackChunkName: "about" */ '../views/About.vue')
   },
   {
-    path: '/EUResidence',
+    path: '/astons/EUResidence',
     name: 'EUResidence',
     component: EUResidence
   },
   {
-    path: '/UKResidence',
+    path: '/astons/UKResidence',
     name: 'UKResidence',
     component: UKResidence
   },
   {
-    path: '/ImmigrationUk',
+    path: '/astons/ImmigrationUk',
     name: 'ImmigrationUk',
     component: ImmigrationUk
   }
   ,{
-    path: '/Passport',
+    path: '/astons/Passport',
     name: 'Passport',
     component: Passport
   }
 ]
 
 const router = new VueRouter({
+  mode: 'history',
+  base: process.env.BASE_URL,
   routes
 })
 
